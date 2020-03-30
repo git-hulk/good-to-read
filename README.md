@@ -24,5 +24,5 @@
 
 ### ClickHouse
 
-* [Introduction to the Mysteries of ClickHouse Replication](https://www.slideshare.net/Altinity/introduction-to-the-mysteries-of-clickhouse-replication-by-robert-hodges-and-altinity-engineering-team) ByRobert Hodges and Altinity Engineering Team
+* [Introduction to the Mysteries of ClickHouse Replication](https://www.slideshare.net/Altinity/introduction-to-the-mysteries-of-clickhouse-replication-by-robert-hodges-and-altinity-engineering-team) By @Robert Hodges and Altinity Engineering Team
 * [ClickHouse Documentation](https://clickhouse.tech/docs/en/) By @Yandex
