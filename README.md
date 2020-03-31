@@ -24,5 +24,6 @@
 
 ### ClickHouse
 
-* [Introduction to the Mysteries of ClickHouse Replication](https://www.slideshare.net/Altinity/introduction-to-the-mysteries-of-clickhouse-replication-by-robert-hodges-and-altinity-engineering-team) By @Robert Hodges and Altinity Engineering Team
 * [ClickHouse Documentation](https://clickhouse.tech/docs/en/) By @Yandex
+* [Introduction to the Mysteries of ClickHouse Replication](https://www.slideshare.net/Altinity/introduction-to-the-mysteries-of-clickhouse-replication-by-robert-hodges-and-altinity-engineering-team) By @Robert Hodges and Altinity Engineering Team
+* [What the heck is ClickHouse tiered storage](https://www.slideshare.net/Altinity/tiered-storage-intro-by-robert-hodges-altinity-ceo-228438948) By @Robert Hodges
