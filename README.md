@@ -27,3 +27,8 @@
 * [ClickHouse Documentation](https://clickhouse.tech/docs/en/) By @Yandex
 * [Introduction to the Mysteries of ClickHouse Replication](https://www.slideshare.net/Altinity/introduction-to-the-mysteries-of-clickhouse-replication-by-robert-hodges-and-altinity-engineering-team) By @Robert Hodges and Altinity Engineering Team
 * [What the heck is ClickHouse tiered storage](https://www.slideshare.net/Altinity/tiered-storage-intro-by-robert-hodges-altinity-ceo-228438948) By @Robert Hodges
+* [Youtube: A Fast Intro to Fast Query with ClickHouse](https://www.youtube.com/watch?v=_vSw3WO2mMY) By @Robert Hodges
+* [Youtube: Analyzing Billion Row Datasets With ClickHouse](https://www.youtube.com/watch?v=uNJX1A2pi64) By @Robert Hodges
+* [Introduction to the Mysteries of ClickHouse Replication](https://www.youtube.com/watch?v=4DlQ6sVKQaA) By @Robert Hodges
+* [ClickHouse on Kubernetes](https://www.youtube.com/watch?v=H2iGgO9nG6I) By @Altinity Engineering Team
+* [ClickHouse and the Magic of Materialized Views](https://www.youtube.com/watch?v=j15dvPGzhyE) By @Robert Hodges
