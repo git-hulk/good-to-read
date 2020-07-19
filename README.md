@@ -8,6 +8,10 @@
 
 ## WEB Develop
 
+### OAuth
+
+* 2020-07-15 [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) By @VIRAG MODY
+
 ### API
 
 * 2019-03-01 [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) By @microsoft
