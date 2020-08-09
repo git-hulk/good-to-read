@@ -28,6 +28,10 @@
 
 * 2020-07-06 [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) By @Malte Ubl
 
+## Storage
+
+* [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees) by @arjun
+
 ## OLAP
 
 ### ClickHouse
