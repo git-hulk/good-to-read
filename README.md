@@ -30,7 +30,8 @@
 
 ## Storage
 
-* [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees) by @arjun
+* 2018-00-00 [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees) by @arjun
+* 2020-07-31 [What every developer should know about database consistency](https://robertovitillo.com/what-every-developer-should-know-about-database-consistency/) by [Roberto Vitillo](https://robertovitillo.com/about/)
 
 ## OLAP
 
