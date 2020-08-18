@@ -45,3 +45,7 @@
 * [Introduction to the Mysteries of ClickHouse Replication](https://www.youtube.com/watch?v=4DlQ6sVKQaA) By @Robert Hodges
 * [ClickHouse on Kubernetes](https://www.youtube.com/watch?v=H2iGgO9nG6I) By @Altinity Engineering Team
 * [ClickHouse and the Magic of Materialized Views](https://www.youtube.com/watch?v=j15dvPGzhyE) By @Robert Hodges
+
+## Others
+
+* 2018-00-00 [Writing system software: code comments](http://antirez.com/news/124) by [@antirez](http://antirez.com/)
