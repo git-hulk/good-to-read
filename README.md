@@ -23,6 +23,7 @@
 * 2019-01-18 [Uber Golang Style Guide](https://github.com/uber-go/guide) By @uber
 * 2019-04-24 [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) By [@Dave Cheney](https://dave.cheney.net/)
 * 2019-12-03 [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles) By [@Russ Cox](https://research.swtch.com/)
+* 2019-06-13 [Using go/analysis to write a custom linter](https://arslan.io/2019/06/13/using-go-analysis-to-write-a-custom-linter/)
 
 ## Develop Best Practice
 
