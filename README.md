@@ -50,3 +50,7 @@
 ## Others
 
 * 2018-00-00 [Writing system software: code comments](http://antirez.com/news/124) by [@antirez](http://antirez.com/)
+
+## Github Awesome Repo
+
+* [awesome-system-design](https://github.com/madd86/awesome-system-design)
