@@ -25,6 +25,7 @@
 * 2019-12-03 [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles) By [@Russ Cox](https://research.swtch.com/)
 * 2019-06-13 [Using go/analysis to write a custom linter](https://arslan.io/2019/06/13/using-go-analysis-to-write-a-custom-linter/)
 * 2019-02-20 [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
+* 2017-05-03 [GO SCHEDULER: MS, PS & GS](https://povilasv.me/go-scheduler/)
 
 ## Develop Best Practice
 
