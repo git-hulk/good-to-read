@@ -58,6 +58,8 @@
 * 2018-00-00 [Writing system software: code comments](http://antirez.com/news/124) by [@antirez](http://antirez.com/)
 * 2019-10-02 [How to Read a Technical Paper](https://medium.com/flatiron-labs/how-to-read-a-technical-paper-ba56b7cec78c)
 * 2017-12-06 [How to Read and Understand a Scientific Paper](https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628)
+* 2015-08-05 [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
+* [guide to efficient reading from Columbia](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
 
 ## Github Awesome Repo
 
