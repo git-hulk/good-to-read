@@ -55,6 +55,7 @@
 
 ## Others
 
+* [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
 * 2018-00-00 [Writing system software: code comments](http://antirez.com/news/124) by [@antirez](http://antirez.com/)
 * 2019-10-02 [How to Read a Technical Paper](https://medium.com/flatiron-labs/how-to-read-a-technical-paper-ba56b7cec78c)
 * 2017-12-06 [How to Read and Understand a Scientific Paper](https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628)
