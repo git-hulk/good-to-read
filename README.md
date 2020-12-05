@@ -12,6 +12,10 @@
 
 ## WEB Develop
 
+### HTTP
+
+* [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+
 ### OAuth
 
 * 2020-07-15 [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) By @VIRAG MODY
