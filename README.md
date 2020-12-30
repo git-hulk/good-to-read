@@ -23,6 +23,7 @@
 ### API
 
 * 2019-03-01 [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) By @microsoft
+* 2020-10 [API pagination design](https://solovyov.net/blog/2020/api-pagination-design/)
 
 ## Language
 
