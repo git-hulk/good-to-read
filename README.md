@@ -19,6 +19,7 @@
 ### OAuth
 
 * 2020-07-15 [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) By @VIRAG MODY
+* [JWT security best practice](https://pragmaticwebsecurity.com/files/cheatsheets/jwt.pdf)
 
 ### API
 
