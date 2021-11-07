@@ -59,6 +59,10 @@
 * [ClickHouse on Kubernetes](https://www.youtube.com/watch?v=H2iGgO9nG6I) By @Altinity Engineering Team
 * [ClickHouse and the Magic of Materialized Views](https://www.youtube.com/watch?v=j15dvPGzhyE) By @Robert Hodges
 
+## Compilers
+
+* 2021-11-04 [How To Learn Compilers: LLVM Edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
+
 ## Others
 
 * [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
