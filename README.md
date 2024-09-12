@@ -10,7 +10,7 @@
 
 * 2020-05-05 [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 
-## WEB Develop
+## Web Develop
 
 ### HTTP
 
@@ -24,11 +24,18 @@
 ### API
 
 * 2019-03-01 [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) By @microsoft
-* 2020-10 [API pagination design](https://solovyov.net/blog/2020/api-pagination-design/)
+* 2020-10-01 [API pagination design](https://solovyov.net/blog/2020/api-pagination-design/)
+* 2024-02-08 [What Are the Core Principles of Good API Design?](https://thenewstack.io/what-are-the-core-principles-of-good-api-design/) By @Charles Humble
+
+
+## System Design
+
+- 2020-05-01 [Complexity Has to Live Somewhere](https://ferd.ca/complexity-has-to-live-somewhere.html) By @Fred Hebert
+- 2024-01-12 [Tackling the challenges of using event-driven architecture in a billing system](https://www.thoughtworks.com/insights/blog/architecture/tackling-the-challenges-of-using-event-driven-architecture-in-a-billing-system) By @Hongxing Chen
 
 ## Language
 
-### Golang
+### Go 
 
 * 2019-01-18 [Uber Golang Style Guide](https://github.com/uber-go/guide) By @uber
 * 2019-04-24 [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) By [@Dave Cheney](https://dave.cheney.net/)
