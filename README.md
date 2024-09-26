@@ -44,6 +44,10 @@
 * 2019-02-20 [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 * 2017-05-03 [GO SCHEDULER: MS, PS & GS](https://povilasv.me/go-scheduler/)
 
+### Rust
+
+- 2014-11-30 [Rust Borrow and Lifetimes](https://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html) By @Arthur
+
 ## Develop Best Practice
 
 * 2020-07-06 [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) By @Malte Ubl
@@ -79,6 +83,6 @@
 * 2015-08-05 [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
 * [guide to efficient reading from Columbia](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
 
-## Github Awesome Repo
+## GitHub Awesome Repo
 
 * [awesome-system-design](https://github.com/madd86/awesome-system-design)
