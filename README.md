@@ -36,7 +36,7 @@
 ## Language
 
 ### Go 
-
+* 2024-07-25 [Iterators in Go](https://bitfieldconsulting.com/posts/iterators) By @KnowGo
 * 2019-01-18 [Uber Golang Style Guide](https://github.com/uber-go/guide) By @uber
 * 2019-04-24 [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) By [@Dave Cheney](https://dave.cheney.net/)
 * 2019-12-03 [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles) By [@Russ Cox](https://research.swtch.com/)
@@ -45,7 +45,8 @@
 * 2017-05-03 [GO SCHEDULER: MS, PS & GS](https://povilasv.me/go-scheduler/)
 
 ### Rust
-
+- 2018-08-18 [Why Rust Closures are (Somewhat) Hard](https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html#:~:text=move%20closures%20avoid%20borrow%2Dchecking,closure%20with%20a%20'static%20lifetime.) By @Steve Donovan
+- 2015-05-14 [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/)
 - 2014-11-30 [Rust Borrow and Lifetimes](https://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html) By @Arthur
 
 ## Develop Best Practice
@@ -86,3 +87,4 @@
 ## GitHub Awesome Repo
 
 * [awesome-system-design](https://github.com/madd86/awesome-system-design)
+* [Rust Learning](https://github.com/ctjhoa/rust-learning)
