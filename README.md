@@ -45,6 +45,7 @@
 * 2017-05-03 [GO SCHEDULER: MS, PS & GS](https://povilasv.me/go-scheduler/)
 
 ### Rust
+- 2020-06-08 [Futures and Segmented Stacks](https://without.boats/blog/futures-and-segmented-stacks/) @withoutboats
 - 2018-08-18 [Why Rust Closures are (Somewhat) Hard](https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html#:~:text=move%20closures%20avoid%20borrow%2Dchecking,closure%20with%20a%20'static%20lifetime.) By @Steve Donovan
 - 2015-05-14 [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/)
 - 2014-11-30 [Rust Borrow and Lifetimes](https://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html) By @Arthur
@@ -53,7 +54,7 @@
 
 * 2020-07-06 [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) By @Malte Ubl
 
-## Storage
+## Database 
 
 * 2018-00-00 [A Brief History of Log Structured Merge Trees](https://ristret.com/s/gnd4yr/brief_history_log_structured_merge_trees) by @arjun
 * 2020-07-31 [What every developer should know about database consistency](https://robertovitillo.com/what-every-developer-should-know-about-database-consistency/) by [Roberto Vitillo](https://robertovitillo.com/about/)
@@ -71,6 +72,10 @@
 * [ClickHouse on Kubernetes](https://www.youtube.com/watch?v=H2iGgO9nG6I) By @Altinity Engineering Team
 * [ClickHouse and the Magic of Materialized Views](https://www.youtube.com/watch?v=j15dvPGzhyE) By @Robert Hodges
 
+### Vector Database
+
+- 2024-10-09 [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/) By @Timescale
+
 ## Compilers
 
 * 2021-11-04 [How To Learn Compilers: LLVM Edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
@@ -83,6 +88,8 @@
 * 2017-12-06 [How to Read and Understand a Scientific Paper](https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628)
 * 2015-08-05 [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
 * [guide to efficient reading from Columbia](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
+* [Being Glue - No Idea Blog](https://www.noidea.dog/glue)
+* [The 4 Growth Frameworks You Need to Build a $100M Product](https://www.reforge.com/blog/the-road-to-100m) By @Brian Balfour
 
 ## GitHub Awesome Repo
 
