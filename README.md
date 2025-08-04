@@ -80,6 +80,10 @@
 
 * 2021-11-04 [How To Learn Compilers: LLVM Edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
 
+## AI
+
+* [OpenAI - A Practical Guide To Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+
 ## Others
 
 * [Rob Pike's 5 Rules of Programming](https://users.ece.utexas.edu/~adnan/pike.html)
